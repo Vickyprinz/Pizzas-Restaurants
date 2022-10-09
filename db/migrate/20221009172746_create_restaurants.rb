@@ -1,9 +1,8 @@
-class CreateRestaurantPizzas < ActiveRecord::Migration[7.0]
+class CreateRestaurants < ActiveRecord::Migration[7.0]
   def change
-    create_table :restaurant_pizzas do |t|
-      t.integer :price
-      t.integer :pizza_id, null: false
-      t.integer :restaurant_id, null: false
+    create_table :restaurants do |t|
+      t.string :name
+      t.string :address
 
       t.timestamps
     end
