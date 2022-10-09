@@ -3,7 +3,7 @@
    ###############################
 
 ## Screenshot
-   ![image](https://www.researchgate.net/publication/326974334/figure/fig1/AS:675448786792459@1538050948720/A-simple-pizza-delivery-process-model.ppm)
+   ![image](https://circle.visual-paradigm.com/wp-content/uploads/2017/07/BPMN-Pizza-Order-Process-1-1024x513.png)
 
 ## Table of Content
 
