@@ -18,15 +18,15 @@
 
 ## Description
 
- <p>This project is a Backend implementation of web application for My Phase 3 final project it is known as MoringaNFT Marketplace. MoringaNFT marketplace is a digital platform for buying and selling NFTs. This allow people to store and display their NFTs plus sell them to others for cryptocurrency or money. It also allow users to mint their NFTs on the platform itself.</p>
+ <p>This project for Implementation of a 'mini' Rails application that implements associations of an API for tracking pizzas restaurants</p>
 
 ## Features
 
 As a user of the application,you will be able to :
 
-1. Buy and sell your own NFTs
-2. Mint their NFTs on the platform
-3. Write their NFTs Reviews and Feedbacks on the platform
+1. Create a Rails API backend.
+2. Have at least three resources (three DB tables).
+
 
  ###  Requirements
 
